@@ -1,4 +1,4 @@
-export const API_DOMAIN = "http://127.0.0.1:8087";
+export const API_DOMAIN = "https://pos.cloudvicer.com/";
 
 export const API_URLS = {
   featuredCategories: `${API_DOMAIN}/api/featured-categories`,
