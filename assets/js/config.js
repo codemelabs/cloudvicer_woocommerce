@@ -1,4 +1,4 @@
-export const API_DOMAIN = "https://pos.cloudvicer.com/";
+export const API_DOMAIN = "https://pos.cloudvicer.com";
 
 export const API_URLS = {
   featuredCategories: `${API_DOMAIN}/api/featured-categories`,
